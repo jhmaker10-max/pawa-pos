@@ -1,0 +1,4 @@
+PAWA WEB COMERCIAL V6 — Instalación guiada con 4 ilustraciones por dispositivo (12 SVG).
+Publicar todos los archivos en la raíz del repositorio comercial.
+No modificar el repositorio POS Clientes.
+Las imágenes son ilustraciones de interfaz, no capturas exactas del navegador.

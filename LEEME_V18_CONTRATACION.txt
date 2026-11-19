@@ -1,0 +1,9 @@
+PAWA POS V18 - Contratación mensual mejorada
+
+Se conservan todas las páginas y la demostración de la V17.
+En licencias.html: tres pasos de contratación, funciones del plan y condiciones por confirmar.
+En index.html: enlace directo al proceso.
+En preguntas.html: nuevas consultas sobre contratación y renovación.
+En app.js: mensaje de WhatsApp con preguntas previas al pago.
+
+AVISO: La web no cobra ni activa licencias. El precio publicado de S/ 10 al mes no configura vencimientos automáticos.

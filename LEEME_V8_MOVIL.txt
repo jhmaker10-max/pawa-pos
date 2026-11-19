@@ -1,0 +1,4 @@
+PAWA WEB COMERCIAL V8
+Cambio exclusivamente visual para pantallas de hasta 690px.
+Se conservan las URLs del POS web, instalador y WhatsApp.
+Sube todos los archivos a la raiz del repositorio comercial y confirma el commit.

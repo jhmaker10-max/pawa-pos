@@ -1,0 +1,9 @@
+PAWA POS V15 - TUTORIAL GUIADO
+
+Se agrega en demostracion.html un recorrido opcional de 10 pasos con indicadores visuales, avance por acciones reales, botón para retroceder, salir y reiniciar.
+
+Flujo: añadir producto, abrir carrito, aumentar cantidad, entrar al escáner, añadir por código, pasar a cobrar, escribir cliente ficticio, confirmar venta, revisar boleta y abrir Ventas.
+
+Los archivos demo-pos.js, tour-pos.js, demostracion.html y styles.css se deben publicar juntos. El tutorial no envía ventas ni conecta al POS real.
+
+Esta versión parte de la web V14 y conserva las otras páginas, el plan anunciado de S/ 10 al mes y los enlaces de WhatsApp.

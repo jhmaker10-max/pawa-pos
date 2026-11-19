@@ -1,0 +1,15 @@
+PAWA POS - WEB V13 - DEMOSTRACIÓN INTERACTIVA
+
+La demostración fue diseñada tomando como referencia los archivos del POS proporcionado por el usuario: inicio.html, scanner.html, pedidos.html, control_pedidos.html y administracion.html.
+
+Recorrido de muestra:
+1. Inicio: buscar productos y añadirlos al carrito.
+2. Escáner: usar códigos de ejemplo 1001, 1002 y 1003 (sin cámara).
+3. Pedido: introducir datos de ejemplo y elegir método de pago.
+4. Boleta: vista previa e impresión/Guardar PDF mediante diálogo del navegador.
+5. Ventas: consultar las ventas simuladas de la sesión.
+6. Administración: crear un producto ficticio y revisar stock.
+
+IMPORTANTE: Es una simulación autónoma con datos ficticios. No conecta al backend ni a Firebase, no solicita credenciales, no usa cámara, no ejecuta pagos reales, no almacena datos en el navegador ni realiza comprobantes tributarios SUNAT. No reemplaza al POS de producción.
+
+Se conservan las demás páginas de la V12, el plan anunciado de S/ 10 por mes y el logo de WhatsApp. Para publicarlo, subir los archivos del ZIP juntos, incluidos demo-pos.js y styles.css.

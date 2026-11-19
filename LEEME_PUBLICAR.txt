@@ -1,0 +1,31 @@
+PAWA POS — PÁGINA COMERCIAL INDEPENDIENTE V2
+
+CONTENIDO:
+- index.html: página principal publicitaria
+- styles.css: diseño de PC y celular
+- app.js: navegación, WhatsApp y enlace de prueba
+- config.js: configuración pública del enlace del POS
+- favicon.svg: icono de la web
+
+ANTES DE PUBLICAR:
+1. Abre config.js y pega la URL pública REAL de tu POS Clientes en POS_URL.
+   Ejemplo únicamente ilustrativo: https://jhmaker10-max.github.io/pos-clientes/inicio.html
+2. Comprueba que esa URL abra el formulario de PAWA POS.
+3. Revisa textos de publicidad, prestaciones y condiciones comerciales.
+4. Crea un repositorio NUEVO en GitHub, por ejemplo pawa-web-comercial.
+5. Sube los 5 archivos directamente a la raíz (no la carpeta contenedora).
+6. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+7. Prueba los botones "Comenzar 5 días gratis" y "Consultar licencias" en PC y celular.
+
+WHATSAPP: +51 986 109 354
+
+NO SUBAS A ESTE REPOSITORIO:
+- server.js, .env, contraseñas o claves API
+- archivos del panel propietario ni el código del POS Clientes
+
+NOTAS:
+- Esta página es publicitaria y no crea cuentas ni cobra online.
+- El registro y los 5 días se procesan en tu POS Clientes con Render/Neon/Brevo.
+- La maqueta del POS en la portada es ILUSTRATIVA, no una captura real.
+- No se publican precios porque aún no se han definido tarifas.
+- La impresión interna de boletas no significa, por sí sola, comprobantes SUNAT.

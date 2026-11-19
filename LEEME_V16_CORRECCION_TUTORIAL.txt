@@ -1,0 +1,3 @@
+PAWA POS V16 - Tutorial corregido.
+Se corrigió la navegación hacia atrás y adelante, la selección de código de ejemplo, el resaltado de acciones y el último paso de la boleta hacia Ventas.
+El tutorial no modifica el POS real. Sustituye TODOS los archivos de la web anterior por los incluidos en este paquete.

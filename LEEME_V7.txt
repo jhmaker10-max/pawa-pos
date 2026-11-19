@@ -1,0 +1,12 @@
+PAWA WEB COMERCIAL V7 — DOS OPCIONES DIRECTAS
+
+Botón 1: Usar versión web -> https://jhmaker10-max.github.io/pos-clientes/
+Botón 2: Instalar PAWA POS -> https://jhmaker10-max.github.io/pos-clientes/instalar.html
+
+En config.js puedes cambiar POS_URL e INSTALL_URL.
+La instalación se solicita desde el origen del POS Clientes; el navegador debe confirmarla. En iPhone se añade desde Safari a pantalla de inicio.
+
+IMPORTANTE: instalar.html debe estar publicado previamente en el repositorio pos-clientes (versión V22). Si no existe, el enlace dará 404.
+
+PUBLICACIÓN: sube los archivos de este ZIP a la RAÍZ del repositorio de la web comercial, reemplazando index.html, styles.css, app.js y config.js.
+No modifiques los archivos de ventas, licencias ni el backend.

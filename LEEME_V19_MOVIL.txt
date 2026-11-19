@@ -1,0 +1,11 @@
+PAWA POS V19 · Optimización mobile first
+
+- Portada adaptada con catálogo y carrito visibles dentro de la vista ilustrativa.
+- Menú lateral móvil, fondo de cierre, accesos inferiores (Inicio, Demo, Planes, Ayuda).
+- Botones táctiles, tarjetas y precios legibles, WhatsApp circular alejado de navegación.
+- En la demostración se oculta el chat flotante en móvil para evitar interferencias con el tutorial.
+- Carrito de la demostración limitado a su propio contenedor.
+- Menor movimiento al solicitar reducción de animaciones.
+- Sin cambios deliberados en el funcionamiento del POS real.
+
+INSTALACIÓN: extrae todos los archivos sobre la web comercial anterior, conservando estructura. Verifica config.js con la URL del POS antes de publicar. Prueba especialmente en iPhone y Android.

@@ -1,0 +1,12 @@
+PAWA POS V22 — DISEÑO MÓVIL COMPACTO
+
+Base: versión V21. Se conservaron estructura y funcionalidades de escritorio.
+
+Cambios para dispositivos de hasta 690 px:
+- Menos espacio vertical en cabecera, portada, secciones, títulos, tarjetas y footer.
+- Planes, guía de compra, preguntas frecuentes y textos legales más compactos.
+- Demostración y tutorial con menos espacio desperdiciado, conservando controles táctiles.
+- Portada de hasta 570 px: mockup de celular más compacto, mostrado antes del texto; botones Probar 5 días y Explorar demostración uno al lado del otro.
+- Se mantienen los enlaces de WhatsApp, el precio S/ 10 al mes, y las páginas existentes.
+
+Los cambios son CSS. No se ha alterado la lógica de licencias, POS ni demostración.

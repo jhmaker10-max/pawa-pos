@@ -1,0 +1,15 @@
+PAWA WEB COMERCIAL V11 — PÁGINAS SEPARADAS
+
+Archivos principales:
+- index.html: Inicio y botones para usar la web o instalar PAWA POS
+- funciones.html: Funciones
+- como-funciona.html: Cómo funciona
+- licencias.html: Planes con carrusel móvil y compra por WhatsApp
+- preguntas.html: Preguntas frecuentes
+
+Publicación:
+1. Sube TODOS los archivos a la raíz del repositorio de la web comercial de GitHub Pages.
+2. No es necesario crear cinco repositorios: son cinco páginas en un único repositorio.
+3. El carrusel de planes sigue en licencias.html para móviles.
+4. No modifiques POS Clientes, Render, Neon ni Brevo.
+5. Revisa config.js antes de publicar; contiene los enlaces públicos al POS y su instalación.

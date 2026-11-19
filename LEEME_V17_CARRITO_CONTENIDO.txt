@@ -1,0 +1,1 @@
+V17: Carrito limitado a la pantalla de la demostración, no a la ventana completa. Mantiene el tutorial y el resto de funciones de V16.

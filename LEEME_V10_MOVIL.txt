@@ -1,0 +1,4 @@
+PAWA Web Comercial V10
+En celulares los planes se ven en carrusel horizontal deslizable con botones y contador. Se compactaron las secciones móviles. La apariencia de escritorio y los enlaces del POS, instalación y WhatsApp no se modificaron.
+
+Publicar: subir TODOS los archivos del ZIP a la raíz del repositorio de la web comercial y hacer Commit.

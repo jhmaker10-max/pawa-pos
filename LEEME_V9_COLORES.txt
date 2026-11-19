@@ -1,0 +1,4 @@
+PAWA WEB COMERCIAL V9 — Colores unificados
+PC y celular usan la misma paleta azul oscuro y verde; en celular se mantiene el diseño compacto.
+Se modificaron solo los estilos CSS y la referencia de versión en index.html.
+Subir todos los archivos a la raíz del repositorio de la web comercial. No modificar POS Clientes.

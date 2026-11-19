@@ -1,0 +1,11 @@
+PAWA POS — versión web comercial profesional V12
+
+Incluye: demostración interactiva ilustrativa; beneficios; resumen de licencia S/ 10 al mes; transparencia sobre datos locales; preguntas frecuentes; centro de ayuda; páginas informativas de privacidad y condiciones; enlaces de navegación y pie de página; metadatos SEO; estilos adaptables.
+
+IMPORTANTE ANTES DE PUBLICAR:
+1) La demostración es ilustrativa, NO captura ni video del sistema real. Sustituir por capturas o video reales cuando estén disponibles.
+2) NO se inventaron testimonios. Añadir solo reseñas reales autorizadas.
+3) privacidad.html y terminos.html son contenidos provisionales; no representan una política legal completa. Verificar datos del responsable, procesos de datos, condiciones de pago, renovación y soporte antes de publicación definitiva.
+4) Comprobar POS_URL e INSTALL_URL en config.js y probar acceso desde web.
+5) La licencia S/10 es precio comercial visible: NO modifica el servidor de licencias ni crea renovación automática.
+6) Revisar todas las páginas en computadora y teléfono antes de publicar.

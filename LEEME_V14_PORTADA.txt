@@ -1,0 +1,6 @@
+PAWA POS V14 — Portada renovada
+
+Se actualizó solo el inicio (index.html) y estilos de la portada.
+La maqueta está basada en el catálogo, carrito y menú de la demostración V13. Productos y precios ficticios.
+CTA principal: prueba gratuita con enlace ya gestionado por app.js. CTA secundario: demostracion.html.
+No se cambió el funcionamiento del POS real, del servidor o de las licencias.

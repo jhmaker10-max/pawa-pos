@@ -1,0 +1,14 @@
+PAWA WEB COMERCIAL V4 — SOLO PÁGINA COMERCIAL
+
+1. Subir estos archivos a la raíz del repositorio de la WEB COMERCIAL (no al repositorio pos-clientes):
+   index.html, styles.css, app.js, config.js, favicon.svg.
+2. El botón «Usar versión web» abre https://jhmaker10-max.github.io/pos-clientes/.
+3. El botón «Instalar en mi dispositivo» muestra una guía para Windows, Android o iPhone.
+   Desde esa guía se abre el POS en su propio origen. El navegador o sistema operativo
+   ofrece la instalación si la PWA cumple los requisitos; la página comercial no puede forzarla.
+4. No se modifica PAWA POS Clientes, Render, Brevo, Neon ni las licencias.
+5. La versión de escritorio tiene colores atenuados, encabezados más contenidos e iconos pequeños.
+6. Prueba en PC y celular; actualiza con Ctrl+F5 si hay caché.
+
+AVISO: No se genera instalador .exe/.apk. Los datos del POS pueden permanecer locales
+al dispositivo; evita borrar datos del sitio para forzar una actualización.
